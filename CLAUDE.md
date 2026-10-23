@@ -1,7 +1,7 @@
 # wp-woo-returns — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): returns and RMA for WooCommerce, linked to orders, refunds and restocking.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
